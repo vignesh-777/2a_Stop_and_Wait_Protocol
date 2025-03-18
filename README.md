@@ -1,4 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
+
+#### REG.NO:212223240177
+#### NAME:VIGNESH R
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
